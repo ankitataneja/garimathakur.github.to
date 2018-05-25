@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+	background-image: url("../images/faces2.jpg");
+	background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-blend-mode: screen;
+    }
+
+    img{
+    	border-radius: 20px;
+    }
+
+    #jpegimg{
+    	margin-top: 15%;
+    	float:right;
+    	margin-right: 15%;
+    	    	
+    
+    }
+
+    #wolfgif{
+    	margin-top: 15%;
+    	float:left;
+    	margin-left: 8%;
+    	width: 15%;
+    	display: none;
+    }
+
+     #facegif{
+    	margin-top: 0%;
+   margin-left: 40%
+   margin-right:auto;
+    	width: 20%;
+    	display: none;
+    }
+
+
+
